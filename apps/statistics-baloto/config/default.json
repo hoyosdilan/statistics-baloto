@@ -1,0 +1,24 @@
+{
+  "beginningIndex": 2090,
+  "numbersPlays": 220,
+  "lastRaffleId": 2310,
+  "urlBase": "https://www.baloto.com",
+  "postfixTraditional": "/resultados-baloto/",
+  "postfixRevancha": "/resultados-revancha/",
+  "resultsMainPage": "/resultados",
+  "fileService": {
+    "resultsPath": "./results",
+    "quantityOfNumberYellow": "/Quantity_Results_Traditional.json",
+    "quantityOfNumberRed": "/Quantity_Balota_Traditional.json",
+    "quantityOfNumberYellowRE": "/Quantity_Results_Revancha.json",
+    "quantityOfNumberRedRE": "/Quantity_Balota_Revancha.json",
+    "quantityOfPlaysNonShownYellow": "/SinceLast__Traditional.json",
+    "quantityOfPlaysNonShownRed": "/SinceLast_Balota_Traditional.json",
+    "quantityOfPlaysNonShownYellowRE": "/SinceLast_Revancha.json",
+    "quantityOfPlaysNonShownRedRE": "/SinceLast_Balota_Revancha.json",
+    "results": "/results_Traditional.json",
+    "resultsRE": "/results_Revancha.json",
+    "resultsTXT": "/results_Traditional.txt",
+    "resultsTXTRE": "/results_Revancha.txt"
+  }
+}
